@@ -1,4 +1,7 @@
  /*
+
+
+ https://github.com/Tabassumasra05/CodeCraft/blob/main/algos/range_queries/PrefixSum/soln/Asra_Tabassum/Solution1.cpp
  Problem:
  Given an integer array nums,answer multiple queries where each query asks
  for the sum of elements between indices left and right (inclusive)
