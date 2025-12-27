@@ -1,4 +1,5 @@
  /*
+ https://github.com/Tabassumasra05/CodeCraft/blob/main/algos/range_queries/PrefixSum/soln/Asra_Tabassum/Solution2.cpp
  Problem:
  Given an array nums, compute the running sum of the array where
  runningSum[i] = sum(nums[0]…nums[i]). (inclusive)
